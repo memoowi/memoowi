@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Misbach</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=memoowi&label=Profile%20views&color=0e75b6&style=flat" alt="memoowi" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=memoowi&color=blue&style=for-the-badge&abbreviated=true" alt="memoowi" /> </p>
 <h3 align="center">Coding? Right on it !</h3>
 
 ![Most used languages Stats of memoowi](https://github-readme-stats.vercel.app/api/top-langs/?username=memoowi&layout=compact&langs_count=10&theme=react)
