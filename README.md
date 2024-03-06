@@ -1,5 +1,7 @@
 # Hi, I'm Misbach 👋🏽
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=memoowi&color=blue&style=for-the-badge&abbreviated=true" alt="memoowi" /> </p>
+
+![memoowi profile's view](https://komarev.com/ghpvc/?username=memoowi&color=blue&style=for-the-badge&abbreviated=true)
+
 <h3 align="center">Coding? Right on it !</h3>
 
 ![Most used languages Stats of memoowi](https://github-readme-stats.vercel.app/api/top-langs/?username=memoowi&layout=compact&langs_count=10&theme=react)
