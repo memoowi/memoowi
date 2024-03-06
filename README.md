@@ -4,4 +4,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=memoowi&" alt="memoowi" /></p>
 
-[![@risnanto73's Holopin board](https://holopin.me/memoowi)](https://holopin.io/@memoowi)
+[![An image of @memoowi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/memoowi)](https://holopin.io/@memoowi)
