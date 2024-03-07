@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-    goes by **_misbach_** or **_memoowi_**
+    goes by <b><i>misbach</i></b> or <b><i>memoowi</i></b>
 </p>
 
 ![memoowi profile's view](https://komarev.com/ghpvc/?username=memoowi&color=blue&style=for-the-badge&abbreviated=true)
