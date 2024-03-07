@@ -17,7 +17,7 @@
 [![memoowi x](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
 
 
-## Most Used Languages
+## My Stats
 
 <p align='center'>
     <a href='#'>
