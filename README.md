@@ -24,23 +24,28 @@
 📍 **SMKN 1 Cibinong** - Bogor regency, Indonesia
 
 - 👨‍💻 **Front-End Bootcamp Trainer**\
-📆 6 Nov 2023 – 12 Nov 2023\
+📆 19 Dec 2023 – 23 Dec 2023\
 📍 **IDN Boarding School** - Bogor regency, Indonesia
 
 - 👨‍💻 **Projects : GreenCycle Web Application**\
 :computer: Laravel, React, Inertia, TailwindCSS\
+:label: User to user Waste management website with pick-up and drop-off features also blogging feature to educate.
 
 - 👨‍💻 **Projects : Mosque Monitoring Application**\
 :computer: Laravel, Filament, Livewire\
+:label: A mosque information, management, and prayer times web.
 
 - 👨‍💻 **Projects : Blogging App**\
 :computer: Flutter, Laravel, Livewire\
+:label: Blogging Mobile App with api built using laravel sanctum. Features such as general CRUD of BLOGS and COMMENTS also LIKE system on both.
 
 - 👨‍💻 **Projects : FoodMo Ordering App**\
 :computer: Flutter, Laravel\
+:label: Restaurant Mobile App using access code of restaurant to order.
 
 - 👨‍💻 **Projects : Attendance App**\
 :computer: Flutter, Laravel\
+:label: Employee/Student Attendance Mobile App with current location input using Google Maps.
 
 </details>
 
