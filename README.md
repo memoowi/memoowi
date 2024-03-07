@@ -16,13 +16,15 @@
 [![memoowi linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/memoowi/)
 [![memoowi x](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
 
+
+## Most Used Languages
+
 <p align='center'>
     <a href='#'>
         <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=memoowi&layout=compact&langs_count=10&theme=react' alt='Most used languages Stats of memoowi'>
     </a>
 </p>
 
-![Most used languages Stats of memoowi](https://github-readme-stats.vercel.app/api/top-langs/?username=memoowi&layout=compact&langs_count=10&theme=react)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=memoowi&theme=discord-old-blurple&hide_border=true&border_radius=20&background=90%2C000000%2C6A8BBB&fire=EB0ECC)
 
