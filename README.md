@@ -8,6 +8,11 @@
 
 ![memoowi profile's view](https://komarev.com/ghpvc/?username=memoowi&color=blue&style=for-the-badge&abbreviated=true)
 
+- 🚀 Highly motivated aspiring Web and Mobile developer seeking a challenging role.
+- 💻 I aim to leverage my strong full-stack web and mobile development skills.
+- 🔍 Eager to apply my expertise to contribute effectively to a dynamic team and accelerate personal growth.
+- ☕️ I love coffee and coding; it's not just a hobby, it's my passion!
+
 <details>
   <summary>📃 Resume</summary>
 
