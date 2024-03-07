@@ -31,3 +31,22 @@
 </p>
 
 [![An image of @memoowi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/memoowi)](https://holopin.io/@memoowi)
+
+
+<details>
+  <summary>📃 Resume</summary>
+
+
+## Education
+
+- 📖 **Software Engineering**\
+📆 2023 - Present\
+📍 **Politeknik IDN Bogor** - Bogor regency, Indonesia
+
+## Experience
+
+<!-- - 👨‍💻 **Cross Mobile Developer**\
+📆 2023 - moment\
+📍 **AB InBev** - Campinas/SP, Brazil -->
+
+</details>
