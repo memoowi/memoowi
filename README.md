@@ -11,7 +11,6 @@
 <details>
   <summary>📃 Resume</summary>
 
-
 ## Education
 
 - 📖 **Software Engineering**\
@@ -20,9 +19,28 @@
 
 ## Experience
 
-<!-- - 👨‍💻 **Cross Mobile Developer**\
-📆 2023 - moment\
-📍 **AB InBev** - Campinas/SP, Brazil -->
+- 👨‍💻 **Web Development Learning Mentor**\
+📆 6 Nov 2023 – 12 Nov 2023\
+📍 **SMKN 1 Cibinong** - Bogor regency, Indonesia
+
+- 👨‍💻 **Front-End Bootcamp Trainer**\
+📆 6 Nov 2023 – 12 Nov 2023\
+📍 **IDN Boarding School** - Bogor regency, Indonesia
+
+- 👨‍💻 **Projects : GreenCycle Web Application**\
+:computer: Laravel, React, Inertia, TailwindCSS\
+
+- 👨‍💻 **Projects : Mosque Monitoring Application**\
+:computer: Laravel, Filament, Livewire\
+
+- 👨‍💻 **Projects : Blogging App**\
+:computer: Flutter, Laravel, Livewire\
+
+- 👨‍💻 **Projects : FoodMo Ordering App**\
+:computer: Flutter, Laravel\
+
+- 👨‍💻 **Projects : Attendance App**\
+:computer: Flutter, Laravel\
 
 </details>
 
