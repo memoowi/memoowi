@@ -6,7 +6,11 @@
     goes by <b><i>misbach</i></b> or <b><i>memoowi</i></b>
 </p>
 
-![memoowi profile's view](https://komarev.com/ghpvc/?username=memoowi&color=blue&style=for-the-badge&abbreviated=true)
+<p align='center'>
+    <a href='#'>
+        <img src='https://komarev.com/ghpvc/?username=memoowi&color=blue&style=for-the-badge&abbreviated=true' alt="memoowi profile's view">
+    </a>
+</p>
 
 - 🚀 Highly motivated aspiring Web and Mobile developer seeking a challenging role.
 - 💻 I aim to leverage my strong full-stack web and mobile development skills.
