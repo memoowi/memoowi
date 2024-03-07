@@ -2,7 +2,9 @@
   Hi there 👋 I'm **Misbachul Munir Al Haddad Alwi** 👨‍💻
 </h1>
 
-goes by **_misbach_** or **_memoowi_**
+<p align='center'>
+    goes by **_misbach_** or **_memoowi_**
+</p>
 
 ![memoowi profile's view](https://komarev.com/ghpvc/?username=memoowi&color=blue&style=for-the-badge&abbreviated=true)
 
