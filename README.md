@@ -8,6 +8,25 @@
 
 ![memoowi profile's view](https://komarev.com/ghpvc/?username=memoowi&color=blue&style=for-the-badge&abbreviated=true)
 
+<details>
+  <summary>📃 Resume</summary>
+
+
+## Education
+
+- 📖 **Software Engineering**\
+📆 2023 - Present\
+📍 **Politeknik IDN Bogor** - Bogor regency, Indonesia
+
+## Experience
+
+<!-- - 👨‍💻 **Cross Mobile Developer**\
+📆 2023 - moment\
+📍 **AB InBev** - Campinas/SP, Brazil -->
+
+</details>
+
+
 ## Get in Touch
 
 [![memoowi email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:megatenlike@gmail.com)
@@ -31,22 +50,3 @@
 </p>
 
 [![An image of @memoowi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/memoowi)](https://holopin.io/@memoowi)
-
-
-<details>
-  <summary>📃 Resume</summary>
-
-
-## Education
-
-- 📖 **Software Engineering**\
-📆 2023 - Present\
-📍 **Politeknik IDN Bogor** - Bogor regency, Indonesia
-
-## Experience
-
-<!-- - 👨‍💻 **Cross Mobile Developer**\
-📆 2023 - moment\
-📍 **AB InBev** - Campinas/SP, Brazil -->
-
-</details>
