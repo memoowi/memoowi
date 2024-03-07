@@ -1,8 +1,8 @@
 <h1 align='center'>
-  Hi there 👋 I'm Misbachul Munir Al Haddad Alwi 👨‍💻
+  Hi there 👋 I'm **Misbachul Munir Al Haddad Alwi** 👨‍💻
 </h1>
 
-goes by **misbach** or **memoowi**
+goes by **_misbach_** or **_memoowi_**
 
 ![memoowi profile's view](https://komarev.com/ghpvc/?username=memoowi&color=blue&style=for-the-badge&abbreviated=true)
 
