@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hi there 👋 I'm **Misbachul Munir Al Haddad Alwi** 👨‍💻
+  Hi there 👋 I'm <b>Misbachul Munir Al Haddad Alwi</b> 👨‍💻
 </h1>
 
 <p align='center'>
