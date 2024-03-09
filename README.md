@@ -18,7 +18,9 @@
 - ☕️ I love coffee and coding; it's not just a hobby, it's my passion!
 
 <details>
-  <summary>📃 Resume</summary>
+  <summary>
+  ![RESUME](assets/resume.gif)
+  </summary>
 
 ## Education
 
