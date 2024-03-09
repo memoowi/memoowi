@@ -19,7 +19,9 @@
 
 <details>
   <summary>
+
   ![RESUME](assets/resume.gif)
+  
   </summary>
 
 ## Education
