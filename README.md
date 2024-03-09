@@ -19,9 +19,7 @@
 
 <details>
   <summary>
-
-  ![RESUME](assets/resume.gif)
-  
+    <img src="asstes/resume.gif" alt="resume gif" width="54px" heigh="30px">
   </summary>
 
 ## Education
