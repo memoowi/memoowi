@@ -12,13 +12,18 @@
     </a>
 </p>
 
-- 🚀 Highly motivated aspiring Web and Mobile developer seeking a challenging role.
-- 💻 I aim to leverage my strong full-stack web and mobile development skills.
-- 🔍 Eager to apply my expertise to contribute effectively to a dynamic team and accelerate personal growth.
-- ☕️ I love coffee and coding; it's not just a hobby, it's my passion!
+## About Me 
+#### _Slightly Unhinged Profile_
 
+- Web and Flutter Developer, and occasionally dabble in other coding shenanigans.
+- Of course i like coding, it's my passion
+- Coffee runs in my blood.
+- was a Windows guy, but now i use Linux (Linux desktop totally brainwashed me)
+- I should touch grass more often, but apparently, the grass is too busy running away from me. (I'm pretty sure it's sentient.)
+
+#
 <details>
-  <summary>📃 Resume</summary>
+  <summary>📃 <b><i>Resume</i></b></summary>
 
 ## Education
 
@@ -78,15 +83,16 @@
 
 </details>
 
+#
 
-## Get in Touch
+## Socials
 
-[![memoowi email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:megatenlike@gmail.com)
-[![memoowi instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/me_moowi)
-[![memoowi whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6288232220652)
-[![memoowi medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@MiMuuu)
-[![memoowi linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/memoowi/)
-[![memoowi x](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
+- [![memoowi email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:megatenlike@gmail.com)
+- [![memoowi instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/me_moowi)
+- [![memoowi whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6288232220652)
+- [![memoowi medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@MiMuuu)
+- [![memoowi linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/memoowi/)
+- [![memoowi x](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
 
 
 ## My Stats
