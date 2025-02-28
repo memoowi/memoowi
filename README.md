@@ -16,13 +16,14 @@
 #### _Slightly Unhinged Profile_
 
 - Web and Flutter Developer, and occasionally dabble in other coding shenanigans.
+- Currently a Software Developer Teacher, forever student (i mean.. everyone are)
 - Of course i like coding, it's my passion
 - Coffee runs in my blood.
-- was a Windows guy, but now i use Linux (Linux desktop totally brainwashed me)
-- I should touch grass more often, but apparently, the grass is too busy running away from me. (I'm pretty sure it's sentient.)
+- was a Windows guy, but now i use Linux (them desktop totally brainwashed me)
+- I should touch grass more often, but the grass is too busy running away from me. (I'm pretty sure it's sentient.)
 
-#
-<details>
+
+<!-- <details>
   <summary>📃 <b><i>Resume</i></b></summary>
 
 ## Education
@@ -81,18 +82,16 @@
 [![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](#)
 [![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#)
 
-</details>
-
-#
+</details> -->
 
 ## Socials
 
-- [![memoowi email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:megatenlike@gmail.com)
-- [![memoowi instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/me_moowi)
-- [![memoowi whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6288232220652)
-- [![memoowi medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@MiMuuu)
-- [![memoowi linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/memoowi/)
-- [![memoowi x](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
+[![memoowi email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:megatenlike@gmail.com)
+[![memoowi instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/me_moowi)
+[![memoowi whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6288232220652)
+[![memoowi medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@MiMuuu)
+[![memoowi linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/memoowi/)
+[![memoowi x](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
 
 
 ## My Stats
