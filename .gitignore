@@ -1,0 +1,6 @@
+# Ignore all resume files 
+resume.*
+
+# But explicitly include these specific extensions
+!resume.tex
+!resume.pdf
