@@ -1,106 +1,108 @@
-<svg width="1169.2" height="761" viewBox="0 0 1169.2 761" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="memoowi github stats terminal card">
+<svg width="1203.6" height="826" viewBox="0 0 1203.6 826" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="memoowi github stats terminal card">
 <style>
   .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
-  .header { fill: #c9d1d9; font-size: 16px; font-weight: 700; }
-  .label { fill: #8b949e; font-size: 13.5px; }
-  .static-val { fill: #c9d1d9; font-size: 13.5px; }
-  .live-val { fill: #58a6ff; font-size: 13.5px; font-weight: 700; }
-  .section { fill: #f85149; font-size: 13.5px; font-weight: 700; }
-  .dim { fill: #6e7681; font-size: 12px; }
-  .art { fill: #c9d1d9; font-size: 9px; white-space: pre; }
+  .header { fill: #c9d1d9; font-size: 22px; font-weight: 700; }
+  .label { fill: #8b949e; font-size: 18px; }
+  .static-val { fill: #c9d1d9; font-size: 18px; }
+  .live-val { fill: #58a6ff; font-size: 18px; font-weight: 700; }
+  .section { fill: #f85149; font-size: 18px; font-weight: 700; }
+  .dim { fill: #6e7681; font-size: 13px; }
+  .art { fill: #c9d1d9; font-size: 12px; white-space: pre; }
 </style>
-<rect width="1169.2" height="761" rx="14" fill="#0d1117"/>
-<rect x="0.5" y="0.5" width="1168.2" height="760" rx="14" fill="none" stroke="#30363d"/>
-<path d="M0.5 14.5 a13.5 13.5 0 0 1 13.5 -13.5 h1141.2 a13.5 13.5 0 0 1 13.5 13.5 v34 h-1168.2 z" fill="#161b22" stroke="#30363d"/>
+<rect width="1203.6" height="826" rx="14" fill="#0d1117"/>
+<rect x="0.5" y="0.5" width="1202.6" height="825" rx="14" fill="none" stroke="#30363d"/>
+<path d="M0.5 14.5 a13.5 13.5 0 0 1 13.5 -13.5 h1175.6 a13.5 13.5 0 0 1 13.5 13.5 v34 h-1202.6 z" fill="#161b22" stroke="#30363d"/>
 <circle cx="26" cy="24" r="6" fill="#ff5f56"/>
 <circle cx="46" cy="24" r="6" fill="#ffbd2e"/>
 <circle cx="66" cy="24" r="6" fill="#27c93f"/>
-<text x="584.6" y="28.5" text-anchor="middle" class="mono dim">memoowi@github</text>
-<text x="40" y="68.0" xml:space="preserve" class="mono art">:=++::                                                    </text>
-<text x="40" y="77.5" xml:space="preserve" class="mono art">                       -=*#-=::.                          </text>
-<text x="40" y="87.0" xml:space="preserve" class="mono art">                      :+#%%%#%##=:.                       </text>
-<text x="40" y="96.5" xml:space="preserve" class="mono art">                    .-*%%#%%%%%#%#*+-..  ..               </text>
-<text x="40" y="106.0" xml:space="preserve" class="mono art">                 .:=+#%%%%%%%%###++#*++-...               </text>
-<text x="40" y="115.5" xml:space="preserve" class="mono art">              .:=*###%####%%#%%%###*+-:::..               </text>
-<text x="40" y="125.0" xml:space="preserve" class="mono art">           ..-+######**+*####%%%%%#**++=.                 </text>
-<text x="40" y="134.5" xml:space="preserve" class="mono art">           .=*#%%###*+*#%%%##**##%###***#+--..            </text>
-<text x="40" y="144.0" xml:space="preserve" class="mono art">      ....:=#%###########+******#%%%##*#%%#=:.            </text>
-<text x="40" y="153.5" xml:space="preserve" class="mono art">     ...--=*####**####+#%##*#%#+*%%#%######--:.           </text>
-<text x="40" y="163.0" xml:space="preserve" class="mono art">     ..-=*#######+*###*#%%####*==#%%%%%%%%%*:-:           </text>
-<text x="40" y="172.5" xml:space="preserve" class="mono art">     .-==#*+#%*+*+##+***###+=+-=*#%%%%%%%%%#-..           </text>
-<text x="40" y="182.0" xml:space="preserve" class="mono art">     .:=+*****++*+#+=*+*#**++=.-=+%%%%%%####+             </text>
-<text x="40" y="191.5" xml:space="preserve" class="mono art">      .-*#***##**#*+=**#++#*+-::=:-*######***.            </text>
-<text x="40" y="201.0" xml:space="preserve" class="mono art">       .+#*##*##%#+*#**+=***=:::-.::-+*****+-.            </text>
-<text x="40" y="210.5" xml:space="preserve" class="mono art">        .=+**+#%%%###*+=-:=-.::.:::..:=**##*:             </text>
-<text x="40" y="220.0" xml:space="preserve" class="mono art">         -+***##%#+=-:....:...::-=---=+*###*-.            </text>
-<text x="40" y="229.5" xml:space="preserve" class="mono art">         .+*#*##*-.......:-=++***+-+*####***=::-:.        </text>
-<text x="40" y="239.0" xml:space="preserve" class="mono art">          -##***-::.......:-****+-:-*#*####**:.::.        </text>
-<text x="40" y="248.5" xml:space="preserve" class="mono art">          .-=+=+-.....:===*#*#*=:.::=*==++==+- ..         </text>
-<text x="40" y="258.0" xml:space="preserve" class="mono art">         .=*=-.-=::...:-::-=++: .:=::-+=:...--...         </text>
-<text x="40" y="267.5" xml:space="preserve" class="mono art">         .=+:=*--..:--:: .......-=:...-++===+-..          </text>
-<text x="40" y="277.0" xml:space="preserve" class="mono art">           ..-:.......::::...:-=-:....:+++++++.           </text>
-<text x="40" y="286.5" xml:space="preserve" class="mono art">            .............:-::==-...-=+*##*###+.           </text>
-<text x="40" y="296.0" xml:space="preserve" class="mono art">             ...:-::.......:=++*==*####%%%%#*=.           </text>
-<text x="40" y="305.5" xml:space="preserve" class="mono art">              ..-=.:........-**+-::.:::+####*:            </text>
-<text x="40" y="315.0" xml:space="preserve" class="mono art">         .......::.::........:==-:-==+*###%#=.            </text>
-<text x="40" y="324.5" xml:space="preserve" class="mono art">      ...........-:::::.....:=**--::--=+**#+.             </text>
-<text x="40" y="334.0" xml:space="preserve" class="mono art">     ............:=.:---:::::-:..:-+*****#*:              </text>
-<text x="40" y="343.5" xml:space="preserve" class="mono art">... ..............=+.:====---:::::-==+*###=               </text>
-<text x="40" y="353.0" xml:space="preserve" class="mono art">:--:..............-%#::-=+++=-:::::::=****#*-.            </text>
-<text x="40" y="362.5" xml:space="preserve" class="mono art">..::::.  .........:+@#:::-=+**+====+**##*+#%%*:           </text>
-<text x="40" y="372.0" xml:space="preserve" class="mono art">.....:--. .........:%@+::---=+*#%%###%%%##**#%#=...       </text>
-<text x="40" y="381.5" xml:space="preserve" class="mono art">.......-=-. .....:.:*%%#=--==-=+####%%#####**#%#++#-      </text>
-<text x="40" y="391.0" xml:space="preserve" class="mono art">.........-+=::::=:.-+#%%%#*+=-=+*#*%@@%#%######%#*#@:     </text>
-<text x="40" y="400.5" xml:space="preserve" class="mono art">...........=*+---::==*@%%%%%#**###%@@@%%%%#####%%#*@*     </text>
-<text x="40" y="410.0" xml:space="preserve" class="mono art">...--.......:+#*--::-=%@@@@@@%%#*%@@@@@%%%%######%##@.    </text>
-<text x="40" y="419.5" xml:space="preserve" class="mono art">..:.--.-:....:=*#*==++*@@@@@@%@%#%%@%@@@%%%**######*@=    </text>
-<text x="40" y="429.0" xml:space="preserve" class="mono art">.:-....#*=-:..:-=+#*****@@@@@##%%%%%%@@@%:-..=##%####+.   </text>
-<text x="40" y="438.5" xml:space="preserve" class="mono art">.:-..:.:#+=+=..:.:=*#*#*#@@@@@%%%%@@@@@@@+.:..*==*####-   </text>
-<text x="40" y="448.0" xml:space="preserve" class="mono art">:::.:::..*+-+=:...--*##*+%@@@@@%%%%@@@@@@@*...-+..:::-+.  </text>
-<text x="40" y="457.5" xml:space="preserve" class="mono art">::-:...:.:++-=+:...--+#*+*@@@@@@%#%%%@@@@@@-...+=.....:.  </text>
-<line x1="371.2" y1="48" x2="371.2" y2="741" stroke="#30363d"/>
-<text x="389.2" y="70" class="mono header">memoowi@github</text>
-<line x1="389.2" y1="80" x2="1129.2" y2="80" stroke="#30363d"/>
-<text x="389.2" y="108" class="mono label">OS:</text>
-<text x="579.2" y="108" class="mono static-val">Arch Linux x86_64</text>
-<text x="389.2" y="133" class="mono label">WM:</text>
-<text x="579.2" y="133" class="mono static-val">Hyprland (Wayland)</text>
-<text x="389.2" y="158" class="mono label">Role:</text>
-<text x="579.2" y="158" class="mono static-val">Full-Stack Developer</text>
-<text x="389.2" y="183" class="mono label">Status:</text>
-<text x="579.2" y="183" class="mono static-val">3rd-Year SE Student &amp; Freelancer</text>
-<text x="389.2" y="208" class="mono label">IDE:</text>
-<text x="579.2" y="208" class="mono static-val">VS Code</text>
-<text x="389.2" y="245.5" class="mono label">Languages.Programming:</text>
-<text x="579.2" y="245.5" class="mono static-val">Dart, TypeScript, PHP, Python, JavaScript</text>
-<text x="389.2" y="270.5" class="mono label">Languages.Frameworks:</text>
-<text x="579.2" y="270.5" class="mono static-val">Flutter, Next.js, Laravel, Supabase</text>
-<text x="389.2" y="308.0" class="mono label">Hobbies:</text>
-<text x="579.2" y="308.0" class="mono static-val">Coding &amp; Travel/Backpacking</text>
-<text x="389.2" y="345.5" class="mono section">Contact</text>
-<line x1="389.2" y1="351.5" x2="1129.2" y2="351.5" stroke="#30363d"/>
-<text x="389.2" y="378.0" class="mono label">GitHub:</text>
-<text x="579.2" y="378.0" class="mono static-val">github.com/memoowi</text>
-<text x="389.2" y="403.0" class="mono label">Email:</text>
-<text x="579.2" y="403.0" class="mono static-val">misbachulalwi@gmail.com</text>
-<text x="389.2" y="428.0" class="mono label">LinkedIn:</text>
-<text x="579.2" y="428.0" class="mono static-val">linkedin.com/in/memoowi</text>
-<text x="389.2" y="465.5" class="mono section">GitHub Stats</text>
-<line x1="389.2" y1="471.5" x2="1129.2" y2="471.5" stroke="#30363d"/>
-<text x="389.2" y="498.0" class="mono label">Repos:</text>
-<text x="579.2" y="498.0" class="mono live-val" id="repo_data">—</text>
-<text x="389.2" y="523.0" class="mono label">Stars:</text>
-<text x="579.2" y="523.0" class="mono live-val" id="star_data">—</text>
-<text x="389.2" y="548.0" class="mono label">Total Commits:</text>
-<text x="579.2" y="548.0" class="mono live-val" id="commit_data">—</text>
-<text x="389.2" y="573.0" class="mono label">Followers:</text>
-<text x="579.2" y="573.0" class="mono live-val" id="follower_data">—</text>
-<text x="389.2" y="598.0" class="mono label">Lines of Code:</text>
-<text x="579.2" y="598.0" class="mono live-val" id="loc_data">—</text>
-<text x="389.2" y="623.0" class="mono label">  Lines Added:</text>
-<text x="579.2" y="623.0" class="mono live-val" id="loc_add">—</text>
-<text x="389.2" y="648.0" class="mono label">  Lines Deleted:</text>
-<text x="579.2" y="648.0" class="mono live-val" id="loc_del">—</text>
-<text x="389.2" y="673.0" class="mono label">Member Since:</text>
-<text x="579.2" y="673.0" class="mono live-val" id="uptime_data">—</text>
+<text x="601.8" y="28.5" text-anchor="middle" class="mono dim">memoowi@github</text>
+<text x="18" y="154.7" xml:space="preserve" class="mono art">                        :=++::                            </text>
+<text x="18" y="167.3" xml:space="preserve" class="mono art">                       -=*#-=::.                          </text>
+<text x="18" y="179.9" xml:space="preserve" class="mono art">                      :+#%%%#%##=:.                       </text>
+<text x="18" y="192.5" xml:space="preserve" class="mono art">                    .-*%%#%%%%%#%#*+-..  ..               </text>
+<text x="18" y="205.1" xml:space="preserve" class="mono art">                 .:=+#%%%%%%%%###++#*++-...               </text>
+<text x="18" y="217.7" xml:space="preserve" class="mono art">              .:=*###%####%%#%%%###*+-:::..               </text>
+<text x="18" y="230.3" xml:space="preserve" class="mono art">           ..-+######**+*####%%%%%#**++=.                 </text>
+<text x="18" y="242.9" xml:space="preserve" class="mono art">           .=*#%%###*+*#%%%##**##%###***#+--..            </text>
+<text x="18" y="255.5" xml:space="preserve" class="mono art">      ....:=#%###########+******#%%%##*#%%#=:.            </text>
+<text x="18" y="268.1" xml:space="preserve" class="mono art">     ...--=*####**####+#%##*#%#+*%%#%######--:.           </text>
+<text x="18" y="280.7" xml:space="preserve" class="mono art">     ..-=*#######+*###*#%%####*==#%%%%%%%%%*:-:           </text>
+<text x="18" y="293.3" xml:space="preserve" class="mono art">     .-==#*+#%*+*+##+***###+=+-=*#%%%%%%%%%#-..           </text>
+<text x="18" y="305.9" xml:space="preserve" class="mono art">     .:=+*****++*+#+=*+*#**++=.-=+%%%%%%####+             </text>
+<text x="18" y="318.5" xml:space="preserve" class="mono art">      .-*#***##**#*+=**#++#*+-::=:-*######***.            </text>
+<text x="18" y="331.1" xml:space="preserve" class="mono art">       .+#*##*##%#+*#**+=***=:::-.::-+*****+-.            </text>
+<text x="18" y="343.7" xml:space="preserve" class="mono art">        .=+**+#%%%###*+=-:=-.::.:::..:=**##*:             </text>
+<text x="18" y="356.3" xml:space="preserve" class="mono art">         -+***##%#+=-:....:...::-=---=+*###*-.            </text>
+<text x="18" y="368.9" xml:space="preserve" class="mono art">         .+*#*##*-.......:-=++***+-+*####***=::-:.        </text>
+<text x="18" y="381.5" xml:space="preserve" class="mono art">          -##***-::.......:-****+-:-*#*####**:.::.        </text>
+<text x="18" y="394.1" xml:space="preserve" class="mono art">          .-=+=+-.....:===*#*#*=:.::=*==++==+- ..         </text>
+<text x="18" y="406.7" xml:space="preserve" class="mono art">         .=*=-.-=::...:-::-=++: .:=::-+=:...--...         </text>
+<text x="18" y="419.3" xml:space="preserve" class="mono art">         .=+:=*--..:--:: .......-=:...-++===+-..          </text>
+<text x="18" y="431.9" xml:space="preserve" class="mono art">           ..-:.......::::...:-=-:....:+++++++.           </text>
+<text x="18" y="444.5" xml:space="preserve" class="mono art">            .............:-::==-...-=+*##*###+.           </text>
+<text x="18" y="457.1" xml:space="preserve" class="mono art">             ...:-::.......:=++*==*####%%%%#*=.           </text>
+<text x="18" y="469.7" xml:space="preserve" class="mono art">              ..-=.:........-**+-::.:::+####*:            </text>
+<text x="18" y="482.3" xml:space="preserve" class="mono art">         .......::.::........:==-:-==+*###%#=.            </text>
+<text x="18" y="494.9" xml:space="preserve" class="mono art">      ...........-:::::.....:=**--::--=+**#+.             </text>
+<text x="18" y="507.5" xml:space="preserve" class="mono art">     ............:=.:---:::::-:..:-+*****#*:              </text>
+<text x="18" y="520.1" xml:space="preserve" class="mono art">... ..............=+.:====---:::::-==+*###=               </text>
+<text x="18" y="532.7" xml:space="preserve" class="mono art">:--:..............-%#::-=+++=-:::::::=****#*-.            </text>
+<text x="18" y="545.3" xml:space="preserve" class="mono art">..::::.  .........:+@#:::-=+**+====+**##*+#%%*:           </text>
+<text x="18" y="557.9" xml:space="preserve" class="mono art">.....:--. .........:%@+::---=+*#%%###%%%##**#%#=...       </text>
+<text x="18" y="570.5" xml:space="preserve" class="mono art">.......-=-. .....:.:*%%#=--==-=+####%%#####**#%#++#-      </text>
+<text x="18" y="583.1" xml:space="preserve" class="mono art">.........-+=::::=:.-+#%%%#*+=-=+*#*%@@%#%######%#*#@:     </text>
+<text x="18" y="595.7" xml:space="preserve" class="mono art">...........=*+---::==*@%%%%%#**###%@@@%%%%#####%%#*@*     </text>
+<text x="18" y="608.3" xml:space="preserve" class="mono art">...--.......:+#*--::-=%@@@@@@%%#*%@@@@@%%%%######%##@.    </text>
+<text x="18" y="620.9" xml:space="preserve" class="mono art">..:.--.-:....:=*#*==++*@@@@@@%@%#%%@%@@@%%%**######*@=    </text>
+<text x="18" y="633.5" xml:space="preserve" class="mono art">.:-....#*=-:..:-=+#*****@@@@@##%%%%%%@@@%:-..=##%####+.   </text>
+<text x="18" y="646.1" xml:space="preserve" class="mono art">.:-..:.:#+=+=..:.:=*#*#*#@@@@@%%%%@@@@@@@+.:..*==*####-   </text>
+<text x="18" y="658.7" xml:space="preserve" class="mono art">:::.:::..*+-+=:...--*##*+%@@@@@%%%%@@@@@@@*...-+..:::-+.  </text>
+<text x="18" y="671.3" xml:space="preserve" class="mono art">::-:...:.:++-=+:...--+#*+*@@@@@@%#%%%@@@@@@-...+=.....:.  </text>
+<line x1="445" y1="48" x2="445" y2="826" stroke="#30363d"/>
+<text x="460" y="78" class="mono header">memoowi@github</text>
+<line x1="460" y1="88" x2="1173.6" y2="88" stroke="#30363d"/>
+<text x="460" y="120" class="mono label">OS:</text>
+<text x="718" y="120" class="mono static-val">Arch Linux x86_64</text>
+<text x="460" y="150" class="mono label">WM:</text>
+<text x="718" y="150" class="mono static-val">Hyprland (Wayland)</text>
+<text x="460" y="180" class="mono label">Role:</text>
+<text x="718" y="180" class="mono static-val">Full-Stack Developer</text>
+<text x="460" y="210" class="mono label">Status:</text>
+<text x="718" y="210" class="mono static-val">3rd-Year SE Student &amp; Freelancer</text>
+<text x="460" y="240" class="mono label">IDE:</text>
+<text x="718" y="240" class="mono static-val">VS Code</text>
+<text x="460" y="270" class="mono label">Languages.Programming:</text>
+<text x="718" y="270" class="mono static-val">Dart, TypeScript, PHP, Python, JavaScript</text>
+<text x="460" y="300" class="mono label">Languages.Frameworks:</text>
+<text x="718" y="300" class="mono static-val">Flutter, Next.js, Laravel, Supabase</text>
+<text x="460" y="330" class="mono label">Languages.Life:</text>
+<text x="718" y="330" class="mono static-val">Javanese, Indonesian, English</text>
+<text x="460" y="360" class="mono label">Hobbies:</text>
+<text x="718" y="360" class="mono static-val">Coding &amp; Travel/Backpacking</text>
+<text x="460" y="410" class="mono section">Contact</text>
+<line x1="460" y1="420" x2="1173.6" y2="420" stroke="#30363d"/>
+<text x="460" y="450" class="mono label">GitHub:</text>
+<text x="718" y="450" class="mono static-val">github.com/memoowi</text>
+<text x="460" y="480" class="mono label">Email:</text>
+<text x="718" y="480" class="mono static-val">misbachulalwi@gmail.com</text>
+<text x="460" y="510" class="mono label">LinkedIn:</text>
+<text x="718" y="510" class="mono static-val">linkedin.com/in/memoowi</text>
+<text x="460" y="560" class="mono section">GitHub Stats</text>
+<line x1="460" y1="570" x2="1173.6" y2="570" stroke="#30363d"/>
+<text x="460" y="600" class="mono label">Repos:</text>
+<text x="718" y="600" class="mono live-val" id="repo_data">—</text>
+<text x="460" y="630" class="mono label">Stars:</text>
+<text x="718" y="630" class="mono live-val" id="star_data">—</text>
+<text x="460" y="660" class="mono label">Total Commits:</text>
+<text x="718" y="660" class="mono live-val" id="commit_data">—</text>
+<text x="460" y="690" class="mono label">Followers:</text>
+<text x="718" y="690" class="mono live-val" id="follower_data">—</text>
+<text x="460" y="720" class="mono label">Lines of Code:</text>
+<text x="718" y="720" class="mono live-val" id="loc_data">—</text>
+<text x="460" y="750" class="mono label">  Lines Added:</text>
+<text x="718" y="750" class="mono live-val" id="loc_add">—</text>
+<text x="460" y="780" class="mono label">  Lines Deleted:</text>
+<text x="718" y="780" class="mono live-val" id="loc_del">—</text>
+<text x="460" y="810" class="mono label">Member Since:</text>
+<text x="718" y="810" class="mono live-val" id="uptime_data">—</text>
 </svg>
