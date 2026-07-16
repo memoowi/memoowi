@@ -1,4 +1,4 @@
-<svg width="1203.6" height="826" viewBox="0 0 1203.6 826" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="memoowi github stats terminal card">
+<svg width="1103" height="826" viewBox="0 0 1103 826" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="memoowi github stats terminal card">
 <style>
   .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
   .header { fill: #24292f; font-size: 22px; font-weight: 700; }
@@ -9,13 +9,13 @@
   .dim { fill: #8c959f; font-size: 13px; }
   .art { fill: #24292f; font-size: 12px; white-space: pre; }
 </style>
-<rect width="1203.6" height="826" rx="14" fill="#ffffff"/>
-<rect x="0.5" y="0.5" width="1202.6" height="825" rx="14" fill="none" stroke="#d0d7de"/>
-<path d="M0.5 14.5 a13.5 13.5 0 0 1 13.5 -13.5 h1175.6 a13.5 13.5 0 0 1 13.5 13.5 v34 h-1202.6 z" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect width="1103" height="826" rx="14" fill="#ffffff"/>
+<rect x="0.5" y="0.5" width="1102" height="825" rx="14" fill="none" stroke="#d0d7de"/>
+<path d="M0.5 14.5 a13.5 13.5 0 0 1 13.5 -13.5 h1075 a13.5 13.5 0 0 1 13.5 13.5 v34 h-1102 z" fill="#f6f8fa" stroke="#d0d7de"/>
 <circle cx="26" cy="24" r="6" fill="#ff5f56"/>
 <circle cx="46" cy="24" r="6" fill="#ffbd2e"/>
 <circle cx="66" cy="24" r="6" fill="#27c93f"/>
-<text x="601.8" y="28.5" text-anchor="middle" class="mono dim">memoowi@github</text>
+<text x="551.5" y="28.5" text-anchor="middle" class="mono dim">memoowi@github</text>
 <text x="18" y="154.7" xml:space="preserve" class="mono art">                        :=++::                            </text>
 <text x="18" y="167.3" xml:space="preserve" class="mono art">                       -=*#-=::.                          </text>
 <text x="18" y="179.9" xml:space="preserve" class="mono art">                      :+#%%%#%##=:.                       </text>
@@ -60,7 +60,7 @@
 <text x="18" y="671.3" xml:space="preserve" class="mono art">::-:...:.:++-=+:...--+#*+*@@@@@@%#%%%@@@@@@-...+=.....:.  </text>
 <line x1="445" y1="48" x2="445" y2="826" stroke="#d0d7de"/>
 <text x="460" y="78" class="mono header">memoowi@github</text>
-<line x1="460" y1="88" x2="1173.6" y2="88" stroke="#d0d7de"/>
+<line x1="460" y1="88" x2="1080" y2="88" stroke="#d0d7de"/>
 <text x="460" y="120" class="mono label">OS:</text>
 <text x="718" y="120" class="mono static-val">Arch Linux x86_64</text>
 <text x="460" y="150" class="mono label">WM:</text>
@@ -72,15 +72,15 @@
 <text x="460" y="240" class="mono label">IDE:</text>
 <text x="718" y="240" class="mono static-val">VS Code</text>
 <text x="460" y="270" class="mono label">Languages.Programming:</text>
-<text x="718" y="270" class="mono static-val">Dart, TypeScript, PHP, Python, JavaScript</text>
+<text x="718" y="270" class="mono static-val">Dart, TS, PHP, Python, JS</text>
 <text x="460" y="300" class="mono label">Languages.Frameworks:</text>
-<text x="718" y="300" class="mono static-val">Flutter, Next.js, Laravel, Supabase</text>
+<text x="718" y="300" class="mono static-val">Flutter, Next.js, Laravel</text>
 <text x="460" y="330" class="mono label">Languages.Life:</text>
 <text x="718" y="330" class="mono static-val">Javanese, Indonesian, English</text>
 <text x="460" y="360" class="mono label">Hobbies:</text>
 <text x="718" y="360" class="mono static-val">Coding &amp; Travel/Backpacking</text>
 <text x="460" y="410" class="mono section">Contact</text>
-<line x1="460" y1="420" x2="1173.6" y2="420" stroke="#d0d7de"/>
+<line x1="460" y1="420" x2="1080" y2="420" stroke="#d0d7de"/>
 <text x="460" y="450" class="mono label">GitHub:</text>
 <text x="718" y="450" class="mono static-val">github.com/memoowi</text>
 <text x="460" y="480" class="mono label">Email:</text>
@@ -88,7 +88,7 @@
 <text x="460" y="510" class="mono label">LinkedIn:</text>
 <text x="718" y="510" class="mono static-val">linkedin.com/in/memoowi</text>
 <text x="460" y="560" class="mono section">GitHub Stats</text>
-<line x1="460" y1="570" x2="1173.6" y2="570" stroke="#d0d7de"/>
+<line x1="460" y1="570" x2="1080" y2="570" stroke="#d0d7de"/>
 <text x="460" y="600" class="mono label">Repos:</text>
 <text x="718" y="600" class="mono live-val" id="repo_data">—</text>
 <text x="460" y="630" class="mono label">Stars:</text>
