@@ -1,4 +1,4 @@
-<svg width="820" height="761" viewBox="0 0 820 761" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="memoowi github stats terminal card">
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="761" viewBox="0 0 820 761" role="img" aria-label="memoowi github stats terminal card">
 <style>
   .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
   .header { fill: #c9d1d9; font-size: 16px; font-weight: 700; }
@@ -44,19 +44,19 @@
 <text x="40" y="465.5" class="mono section">GitHub Stats</text>
 <line x1="40" y1="471.5" x2="780" y2="471.5" stroke="#30363d"/>
 <text x="40" y="498.0" class="mono label">Repos:</text>
-<text x="230" y="498.0" class="mono live-val" id="repo_data">—</text>
+<text x="230" y="498.0" class="mono live-val" id="repo_data">102</text>
 <text x="40" y="523.0" class="mono label">Stars:</text>
-<text x="230" y="523.0" class="mono live-val" id="star_data">—</text>
+<text x="230" y="523.0" class="mono live-val" id="star_data">3</text>
 <text x="40" y="548.0" class="mono label">Total Commits:</text>
-<text x="230" y="548.0" class="mono live-val" id="commit_data">—</text>
+<text x="230" y="548.0" class="mono live-val" id="commit_data">1,876</text>
 <text x="40" y="573.0" class="mono label">Followers:</text>
-<text x="230" y="573.0" class="mono live-val" id="follower_data">—</text>
+<text x="230" y="573.0" class="mono live-val" id="follower_data">16</text>
 <text x="40" y="598.0" class="mono label">Lines of Code:</text>
-<text x="230" y="598.0" class="mono live-val" id="loc_data">—</text>
+<text x="230" y="598.0" class="mono live-val" id="loc_data">3,631,253</text>
 <text x="40" y="623.0" class="mono label">  Lines Added:</text>
-<text x="230" y="623.0" class="mono live-val" id="loc_add">—</text>
+<text x="230" y="623.0" class="mono live-val" id="loc_add">+3,711,694</text>
 <text x="40" y="648.0" class="mono label">  Lines Deleted:</text>
-<text x="230" y="648.0" class="mono live-val" id="loc_del">—</text>
+<text x="230" y="648.0" class="mono live-val" id="loc_del">-80,441</text>
 <text x="40" y="673.0" class="mono label">Member Since:</text>
-<text x="230" y="673.0" class="mono live-val" id="uptime_data">—</text>
+<text x="230" y="673.0" class="mono live-val" id="uptime_data">2 yrs, 11 mos</text>
 </svg>

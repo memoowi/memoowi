@@ -1,0 +1,614 @@
+{
+  "memoowi/AirTix_consoleApps": {
+    "additions": 1222,
+    "commit_total": 10,
+    "deletions": 254,
+    "my_commits": 10
+  },
+  "memoowi/EnviroScan-livewire-iot": {
+    "additions": 11506,
+    "commit_total": 3,
+    "deletions": 6,
+    "my_commits": 3
+  },
+  "memoowi/IDCamp": {
+    "additions": 438,
+    "commit_total": 1,
+    "deletions": 0,
+    "my_commits": 1
+  },
+  "memoowi/WeeMo_flutter": {
+    "additions": 6072,
+    "commit_total": 1,
+    "deletions": 0,
+    "my_commits": 1
+  },
+  "memoowi/attendance_app": {
+    "additions": 7355,
+    "commit_total": 7,
+    "deletions": 561,
+    "my_commits": 7
+  },
+  "memoowi/attendance_app_api": {
+    "additions": 11453,
+    "commit_total": 1,
+    "deletions": 0,
+    "my_commits": 1
+  },
+  "memoowi/attendances-class-of-2027": {
+    "additions": 12659,
+    "commit_total": 21,
+    "deletions": 1306,
+    "my_commits": 21
+  },
+  "memoowi/belajar-python": {
+    "additions": 789,
+    "commit_total": 4,
+    "deletions": 2,
+    "my_commits": 4
+  },
+  "memoowi/blog_test": {
+    "additions": 12885,
+    "commit_total": 3,
+    "deletions": 6,
+    "my_commits": 3
+  },
+  "memoowi/blog_test_flutter": {
+    "additions": 9271,
+    "commit_total": 36,
+    "deletions": 1749,
+    "my_commits": 36
+  },
+  "memoowi/blog_test_web": {
+    "additions": 15048,
+    "commit_total": 3,
+    "deletions": 8,
+    "my_commits": 3
+  },
+  "memoowi/book-app-sentul": {
+    "additions": 14762,
+    "commit_total": 3,
+    "deletions": 7,
+    "my_commits": 3
+  },
+  "memoowi/bookshelf-api-nodejs": {
+    "additions": 3814,
+    "commit_total": 2,
+    "deletions": 11,
+    "my_commits": 2
+  },
+  "memoowi/bookshelf-app": {
+    "additions": 538,
+    "commit_total": 3,
+    "deletions": 35,
+    "my_commits": 3
+  },
+  "memoowi/circle-app": {
+    "additions": 4850,
+    "commit_total": 1,
+    "deletions": 0,
+    "my_commits": 1
+  },
+  "memoowi/class_student_sentul": {
+    "additions": 640,
+    "commit_total": 3,
+    "deletions": 8,
+    "my_commits": 3
+  },
+  "memoowi/coba-react": {
+    "additions": 5325,
+    "commit_total": 10,
+    "deletions": 21,
+    "my_commits": 10
+  },
+  "memoowi/codex": {
+    "additions": 15309,
+    "commit_total": 38,
+    "deletions": 1418,
+    "my_commits": 38
+  },
+  "memoowi/crud-cibione": {
+    "additions": 238,
+    "commit_total": 1,
+    "deletions": 0,
+    "my_commits": 1
+  },
+  "memoowi/daftar-makanan-flutter": {
+    "additions": 6968,
+    "commit_total": 10,
+    "deletions": 497,
+    "my_commits": 10
+  },
+  "memoowi/deko-by-yasraffad": {
+    "additions": 4881,
+    "commit_total": 25,
+    "deletions": 964,
+    "my_commits": 25
+  },
+  "memoowi/diet_app_single": {
+    "additions": 6901,
+    "commit_total": 1,
+    "deletions": 0,
+    "my_commits": 1
+  },
+  "memoowi/digi-kelas": {
+    "additions": 37600,
+    "commit_total": 122,
+    "deletions": 6477,
+    "my_commits": 122
+  },
+  "memoowi/digital-library": {
+    "additions": 109605,
+    "commit_total": 5,
+    "deletions": 413,
+    "my_commits": 5
+  },
+  "memoowi/e-comm-api-demo-2": {
+    "additions": 12783,
+    "commit_total": 46,
+    "deletions": 8133,
+    "my_commits": 41
+  },
+  "memoowi/e-comm-next": {
+    "additions": 7638,
+    "commit_total": 6,
+    "deletions": 178,
+    "my_commits": 6
+  },
+  "memoowi/e-comm-ui": {
+    "additions": 6922,
+    "commit_total": 5,
+    "deletions": 146,
+    "my_commits": 5
+  },
+  "memoowi/e-commerce-api-demo": {
+    "additions": 2128,
+    "commit_total": 6,
+    "deletions": 243,
+    "my_commits": 6
+  },
+  "memoowi/e-library-skl": {
+    "additions": 16338,
+    "commit_total": 9,
+    "deletions": 310,
+    "my_commits": 9
+  },
+  "memoowi/e-report": {
+    "additions": 2148,
+    "commit_total": 13,
+    "deletions": 472,
+    "my_commits": 13
+  },
+  "memoowi/ever-rest": {
+    "additions": 6339,
+    "commit_total": 4,
+    "deletions": 162,
+    "my_commits": 4
+  },
+  "memoowi/express-coba": {
+    "additions": 880,
+    "commit_total": 3,
+    "deletions": 3,
+    "my_commits": 3
+  },
+  "memoowi/faci-tend": {
+    "additions": 4697,
+    "commit_total": 2,
+    "deletions": 0,
+    "my_commits": 2
+  },
+  "memoowi/fin-track": {
+    "additions": 5408,
+    "commit_total": 1,
+    "deletions": 0,
+    "my_commits": 1
+  },
+  "memoowi/food_app_api": {
+    "additions": 12015,
+    "commit_total": 6,
+    "deletions": 21,
+    "my_commits": 6
+  },
+  "memoowi/food_mo_app": {
+    "additions": 7399,
+    "commit_total": 2,
+    "deletions": 170,
+    "my_commits": 2
+  },
+  "memoowi/form-handling-vanilla-php": {
+    "additions": 897,
+    "commit_total": 13,
+    "deletions": 49,
+    "my_commits": 13
+  },
+  "memoowi/gas-nugas": {
+    "additions": 52400,
+    "commit_total": 185,
+    "deletions": 6899,
+    "my_commits": 185
+  },
+  "memoowi/generate-rapor": {
+    "additions": 143,
+    "commit_total": 1,
+    "deletions": 0,
+    "my_commits": 1
+  },
+  "memoowi/green-cycle": {
+    "additions": 34290,
+    "commit_total": 84,
+    "deletions": 4283,
+    "my_commits": 84
+  },
+  "memoowi/hadirin": {
+    "additions": 17283,
+    "commit_total": 37,
+    "deletions": 1044,
+    "my_commits": 37
+  },
+  "memoowi/i-am-api": {
+    "additions": 12060,
+    "commit_total": 23,
+    "deletions": 79,
+    "my_commits": 23
+  },
+  "memoowi/i-am-app": {
+    "additions": 13295,
+    "commit_total": 18,
+    "deletions": 2120,
+    "my_commits": 18
+  },
+  "memoowi/i-am-driver-app": {
+    "additions": 11300,
+    "commit_total": 8,
+    "deletions": 175,
+    "my_commits": 8
+  },
+  "memoowi/idnshop-mobile": {
+    "additions": 25015,
+    "commit_total": 56,
+    "deletions": 3345,
+    "my_commits": 56
+  },
+  "memoowi/ikutan-api": {
+    "additions": 16207,
+    "commit_total": 42,
+    "deletions": 79,
+    "my_commits": 42
+  },
+  "memoowi/ikutan-api-deploy": {
+    "additions": 15644,
+    "commit_total": 15,
+    "deletions": 163,
+    "my_commits": 15
+  },
+  "memoowi/in-out": {
+    "additions": 11968,
+    "commit_total": 50,
+    "deletions": 1311,
+    "my_commits": 50
+  },
+  "memoowi/inertia-react-first": {
+    "additions": 17157,
+    "commit_total": 1,
+    "deletions": 0,
+    "my_commits": 1
+  },
+  "memoowi/insania-laravel": {
+    "additions": 2032480,
+    "commit_total": 10,
+    "deletions": 164,
+    "my_commits": 10
+  },
+  "memoowi/insania-sinergia": {
+    "additions": 60772,
+    "commit_total": 1,
+    "deletions": 0,
+    "my_commits": 1
+  },
+  "memoowi/itcamp_order_food": {
+    "additions": 802,
+    "commit_total": 3,
+    "deletions": 4,
+    "my_commits": 3
+  },
+  "memoowi/kosong": {
+    "additions": 0,
+    "commit_total": 0,
+    "deletions": 0,
+    "my_commits": 0
+  },
+  "memoowi/kuliah_crud1": {
+    "additions": 369,
+    "commit_total": 9,
+    "deletions": 54,
+    "my_commits": 9
+  },
+  "memoowi/kuliah_multiuser1": {
+    "additions": 327,
+    "commit_total": 2,
+    "deletions": 1,
+    "my_commits": 2
+  },
+  "memoowi/lampswitch-laravel-iot": {
+    "additions": 11327,
+    "commit_total": 3,
+    "deletions": 5,
+    "my_commits": 3
+  },
+  "memoowi/laravel-books": {
+    "additions": 11349,
+    "commit_total": 1,
+    "deletions": 0,
+    "my_commits": 1
+  },
+  "memoowi/laravel-first-kenal-app": {
+    "additions": 14466,
+    "commit_total": 18,
+    "deletions": 132,
+    "my_commits": 18
+  },
+  "memoowi/livewire-crud-auth": {
+    "additions": 13185,
+    "commit_total": 3,
+    "deletions": 1,
+    "my_commits": 3
+  },
+  "memoowi/lockedin": {
+    "additions": 19692,
+    "commit_total": 81,
+    "deletions": 4080,
+    "my_commits": 81
+  },
+  "memoowi/login-regist-blibli": {
+    "additions": 301,
+    "commit_total": 3,
+    "deletions": 10,
+    "my_commits": 3
+  },
+  "memoowi/login1": {
+    "additions": 60557,
+    "commit_total": 3,
+    "deletions": 48,
+    "my_commits": 3
+  },
+  "memoowi/m-ex": {
+    "additions": 12472,
+    "commit_total": 3,
+    "deletions": 6064,
+    "my_commits": 3
+  },
+  "memoowi/m-ex-api": {
+    "additions": 6588,
+    "commit_total": 9,
+    "deletions": 1276,
+    "my_commits": 9
+  },
+  "memoowi/memoowi": {
+    "additions": 1215,
+    "commit_total": 69,
+    "deletions": 468,
+    "my_commits": 69
+  },
+  "memoowi/memoowi-app": {
+    "additions": 16721,
+    "commit_total": 27,
+    "deletions": 1259,
+    "my_commits": 27
+  },
+  "memoowi/memoowi-portfolio-v2": {
+    "additions": 18878,
+    "commit_total": 103,
+    "deletions": 3011,
+    "my_commits": 103
+  },
+  "memoowi/memoowi.github.io": {
+    "additions": 1218,
+    "commit_total": 17,
+    "deletions": 281,
+    "my_commits": 17
+  },
+  "memoowi/mewTime": {
+    "additions": 12747,
+    "commit_total": 24,
+    "deletions": 1925,
+    "my_commits": 24
+  },
+  "memoowi/misbach-portfolio": {
+    "additions": 11293,
+    "commit_total": 44,
+    "deletions": 1472,
+    "my_commits": 44
+  },
+  "memoowi/misbach-portfolio-admin": {
+    "additions": 7435,
+    "commit_total": 6,
+    "deletions": 300,
+    "my_commits": 6
+  },
+  "memoowi/misbach-portfolio-v3": {
+    "additions": 31359,
+    "commit_total": 144,
+    "deletions": 4448,
+    "my_commits": 144
+  },
+  "memoowi/mosque-info": {
+    "additions": 16765,
+    "commit_total": 5,
+    "deletions": 135,
+    "my_commits": 5
+  },
+  "memoowi/my-bit-hub": {
+    "additions": 36626,
+    "commit_total": 64,
+    "deletions": 4643,
+    "my_commits": 64
+  },
+  "memoowi/newen": {
+    "additions": 6511,
+    "commit_total": 12,
+    "deletions": 432,
+    "my_commits": 12
+  },
+  "memoowi/news_app": {
+    "additions": 5585,
+    "commit_total": 1,
+    "deletions": 0,
+    "my_commits": 1
+  },
+  "memoowi/notes-app-back-end": {
+    "additions": 3294,
+    "commit_total": 3,
+    "deletions": 29,
+    "my_commits": 3
+  },
+  "memoowi/notesku-api": {
+    "additions": 11560,
+    "commit_total": 2,
+    "deletions": 1,
+    "my_commits": 2
+  },
+  "memoowi/notesku-app": {
+    "additions": 8912,
+    "commit_total": 7,
+    "deletions": 252,
+    "my_commits": 7
+  },
+  "memoowi/payroll-website": {
+    "additions": 21695,
+    "commit_total": 57,
+    "deletions": 883,
+    "my_commits": 57
+  },
+  "memoowi/pdf_pair_merger": {
+    "additions": 407,
+    "commit_total": 2,
+    "deletions": 67,
+    "my_commits": 2
+  },
+  "memoowi/pixel-shot": {
+    "additions": 10214,
+    "commit_total": 16,
+    "deletions": 878,
+    "my_commits": 16
+  },
+  "memoowi/portfolio-vanilla-css": {
+    "additions": 2065,
+    "commit_total": 17,
+    "deletions": 415,
+    "my_commits": 17
+  },
+  "memoowi/portofolio-tailwind": {
+    "additions": 263904,
+    "commit_total": 2,
+    "deletions": 1,
+    "my_commits": 2
+  },
+  "memoowi/portofolio1": {
+    "additions": 6117,
+    "commit_total": 1,
+    "deletions": 0,
+    "my_commits": 1
+  },
+  "memoowi/portofolio2": {
+    "additions": 3006,
+    "commit_total": 1,
+    "deletions": 0,
+    "my_commits": 1
+  },
+  "memoowi/portofolio_flutter": {
+    "additions": 6542,
+    "commit_total": 4,
+    "deletions": 232,
+    "my_commits": 4
+  },
+  "memoowi/portofolio_flutter_web": {
+    "additions": 105791,
+    "commit_total": 2,
+    "deletions": 1,
+    "my_commits": 2
+  },
+  "memoowi/quran_app": {
+    "additions": 5463,
+    "commit_total": 2,
+    "deletions": 21,
+    "my_commits": 2
+  },
+  "memoowi/quran_app_first": {
+    "additions": 6451,
+    "commit_total": 9,
+    "deletions": 319,
+    "my_commits": 9
+  },
+  "memoowi/rapor-index": {
+    "additions": 9935,
+    "commit_total": 10,
+    "deletions": 471,
+    "my_commits": 10
+  },
+  "memoowi/react-pertamaku": {
+    "additions": 5585,
+    "commit_total": 3,
+    "deletions": 16,
+    "my_commits": 3
+  },
+  "memoowi/rest_api1": {
+    "additions": 364,
+    "commit_total": 2,
+    "deletions": 3,
+    "my_commits": 2
+  },
+  "memoowi/score-converter": {
+    "additions": 163,
+    "commit_total": 3,
+    "deletions": 4,
+    "my_commits": 3
+  },
+  "memoowi/simple-website-laravelfilament": {
+    "additions": 24724,
+    "commit_total": 1,
+    "deletions": 0,
+    "my_commits": 1
+  },
+  "memoowi/skills-communicate-using-markdown": {
+    "additions": 1097,
+    "commit_total": 27,
+    "deletions": 141,
+    "my_commits": 15
+  },
+  "memoowi/taskSecondLogReg": {
+    "additions": 1567,
+    "commit_total": 2,
+    "deletions": 1,
+    "my_commits": 2
+  },
+  "memoowi/tre-sign-gen": {
+    "additions": 191,
+    "commit_total": 2,
+    "deletions": 1,
+    "my_commits": 2
+  },
+  "memoowi/vacay-tix-api": {
+    "additions": 12998,
+    "commit_total": 51,
+    "deletions": 316,
+    "my_commits": 51
+  },
+  "memoowi/vacay-tix-app": {
+    "additions": 16786,
+    "commit_total": 43,
+    "deletions": 2878,
+    "my_commits": 43
+  },
+  "memoowi/wallet_sha_flutter": {
+    "additions": 6819,
+    "commit_total": 7,
+    "deletions": 169,
+    "my_commits": 7
+  },
+  "memoowi/web-foodsie": {
+    "additions": 152521,
+    "commit_total": 2,
+    "deletions": 1,
+    "my_commits": 2
+  }
+}
