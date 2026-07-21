@@ -92,19 +92,19 @@
 <text x="460" y="560" class="mono section">GitHub Stats</text>
 <line x1="460" y1="570" x2="1080" y2="570" stroke="#30363d"/>
 <text x="460" y="600" class="mono label">Repos:</text>
-<text x="718" y="600" class="mono live-val" id="repo_data">102</text>
+<text x="718" y="600" class="mono live-val" id="repo_data">103</text>
 <text x="460" y="630" class="mono label">Stars:</text>
 <text x="718" y="630" class="mono live-val" id="star_data">3</text>
 <text x="460" y="660" class="mono label">Total Commits:</text>
-<text x="718" y="660" class="mono live-val" id="commit_data">1,886</text>
+<text x="718" y="660" class="mono live-val" id="commit_data">1,944</text>
 <text x="460" y="690" class="mono label">Followers:</text>
 <text x="718" y="690" class="mono live-val" id="follower_data">16</text>
 <text x="460" y="720" class="mono label">Lines of Code:</text>
-<text x="718" y="720" class="mono live-val" id="loc_data">3,631,349</text>
+<text x="718" y="720" class="mono live-val" id="loc_data">3,655,127</text>
 <text x="460" y="750" class="mono label">  Lines Added:</text>
-<text x="718" y="750" class="mono live-val" id="loc_add">+3,712,292</text>
+<text x="718" y="750" class="mono live-val" id="loc_add">+3,738,286</text>
 <text x="460" y="780" class="mono label">  Lines Deleted:</text>
-<text x="718" y="780" class="mono live-val" id="loc_del">-80,943</text>
+<text x="718" y="780" class="mono live-val" id="loc_del">-83,159</text>
 <text x="460" y="810" class="mono label">Member Since:</text>
 <text x="718" y="810" class="mono live-val" id="uptime_data">2 yrs, 11 mos</text>
 </svg>
