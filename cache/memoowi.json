@@ -41,11 +41,17 @@
     "deletions": 1306,
     "my_commits": 21
   },
+  "memoowi/aura-edu-public": {
+    "additions": 16619,
+    "commit_total": 24,
+    "deletions": 3370,
+    "my_commits": 24
+  },
   "memoowi/aura-education": {
-    "additions": 32487,
-    "commit_total": 86,
-    "deletions": 2901,
-    "my_commits": 86
+    "additions": 32770,
+    "commit_total": 89,
+    "deletions": 2935,
+    "my_commits": 89
   },
   "memoowi/belajar-python": {
     "additions": 789,
@@ -391,7 +397,7 @@
   },
   "memoowi/memoowi": {
     "additions": 1809,
-    "commit_total": 89,
+    "commit_total": 90,
     "deletions": 966,
     "my_commits": 76
   },
