@@ -48,10 +48,10 @@
     "my_commits": 39
   },
   "memoowi/aura-edu-public": {
-    "additions": 19265,
-    "commit_total": 71,
-    "deletions": 4104,
-    "my_commits": 71
+    "additions": 20048,
+    "commit_total": 75,
+    "deletions": 4119,
+    "my_commits": 75
   },
   "memoowi/aura-education": {
     "additions": 41422,
@@ -112,6 +112,12 @@
     "commit_total": 3,
     "deletions": 35,
     "my_commits": 3
+  },
+  "memoowi/by-naru": {
+    "additions": 14092,
+    "commit_total": 21,
+    "deletions": 819,
+    "my_commits": 21
   },
   "memoowi/circle-app": {
     "additions": 4850,
@@ -415,7 +421,7 @@
   },
   "memoowi/memoowi": {
     "additions": 1809,
-    "commit_total": 125,
+    "commit_total": 126,
     "deletions": 966,
     "my_commits": 76
   },
