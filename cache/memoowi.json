@@ -65,6 +65,18 @@
     "deletions": 0,
     "my_commits": 1
   },
+  "memoowi/aura-social-backend": {
+    "additions": 23443,
+    "commit_total": 106,
+    "deletions": 3072,
+    "my_commits": 106
+  },
+  "memoowi/aura-social-frontend": {
+    "additions": 12540,
+    "commit_total": 69,
+    "deletions": 3785,
+    "my_commits": 69
+  },
   "memoowi/auto-mod": {
     "additions": 6092,
     "commit_total": 48,
@@ -421,7 +433,7 @@
   },
   "memoowi/memoowi": {
     "additions": 1809,
-    "commit_total": 131,
+    "commit_total": 132,
     "deletions": 966,
     "my_commits": 76
   },
