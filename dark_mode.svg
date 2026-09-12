@@ -106,5 +106,5 @@
 <text x="460" y="780" class="mono label">  Lines Deleted:</text>
 <text x="718" y="780" class="mono live-val" id="loc_del">-100,484</text>
 <text x="460" y="810" class="mono label">Member Since:</text>
-<text x="718" y="810" class="mono live-val" id="uptime_data">3 yrs</text>
+<text x="718" y="810" class="mono live-val" id="uptime_data">3 yrs, 1 mo</text>
 </svg>
