@@ -48,16 +48,22 @@
     "my_commits": 55
   },
   "memoowi/aura-bot-detection-backend": {
-    "additions": 4358,
-    "commit_total": 12,
-    "deletions": 460,
-    "my_commits": 12
+    "additions": 19627,
+    "commit_total": 89,
+    "deletions": 8097,
+    "my_commits": 89
   },
   "memoowi/aura-bot-detection-frontend": {
-    "additions": 10166,
-    "commit_total": 5,
-    "deletions": 69,
-    "my_commits": 5
+    "additions": 40679,
+    "commit_total": 112,
+    "deletions": 11626,
+    "my_commits": 112
+  },
+  "memoowi/aura-bot-detection-root": {
+    "additions": 4204,
+    "commit_total": 51,
+    "deletions": 534,
+    "my_commits": 51
   },
   "memoowi/aura-edu-public": {
     "additions": 20048,
@@ -457,7 +463,7 @@
   },
   "memoowi/memoowi": {
     "additions": 1809,
-    "commit_total": 165,
+    "commit_total": 166,
     "deletions": 966,
     "my_commits": 76
   },
